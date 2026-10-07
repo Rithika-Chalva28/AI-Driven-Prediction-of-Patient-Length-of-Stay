@@ -2,6 +2,15 @@
 
 Machine learning project on hospital patient records that predicts length of stay and treatment cost with diabetic status taken into account, and classifies patients as **Low risk** or **High risk**.
 
+**Project Overview**
+
+Hospitals need to plan beds, staff and budgets. This project uses patient data to:
+
+- Explore patterns in hospital patient records (EDA)
+- Predict how long a patient is likely to stay in the hospital
+- Estimate treatment cost, with diabetic vs. non-diabetic patients analysed separately
+- Assess patient risk
+
 ## Repository Contents
 
 | File | Description |
